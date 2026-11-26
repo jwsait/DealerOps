@@ -1,0 +1,7 @@
+Missing source assets referenced by index.html:
+design/assets/dealerops-c4-container-diagram.svg
+requirements/backup-data/01-southgate-dashboard.png
+requirements/backup-data/02-lakeshore-dms.png
+requirements/backup-data/03-platform-admin-dealerships.png
+project-plan/poster/DealerOps-Poster.pdf
+project-plan/prototype/DealerOps-Prototype.html
